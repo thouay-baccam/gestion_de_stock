@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 from product import Product
 from category import Category
-from databaseconnect import DatabaseConnect
 
 class Interface:
     def __init__(self, db_connection):
