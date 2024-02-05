@@ -11,7 +11,7 @@ class LoginDialog(simpledialog.Dialog):
 
         self.db_host = tk.Entry(master)
         self.db_user = tk.Entry(master)
-        self.db_password = tk.Entry(master)
+        self.db_password = tk.Entry(master, show ="*")
         self.database = tk.Entry(master)
 
         self.db_host.grid(row=0, column=1)
