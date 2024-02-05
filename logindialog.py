@@ -7,7 +7,7 @@ class LoginDialog(simpledialog.Dialog):
         tk.Label(master, text="DB Host:").grid(row=0)
         tk.Label(master, text="DB User:").grid(row=1)
         tk.Label(master, text="DB Password:").grid(row=2)
-        tk.Label(master, text="Database:").grid(row=3)
+        tk.Label(master, text="DB Name:").grid(row=3)
 
         self.db_host = tk.Entry(master)
         self.db_user = tk.Entry(master)
