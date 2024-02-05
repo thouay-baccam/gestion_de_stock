@@ -1,29 +1,26 @@
-# Stock Manager
-Stock Manager is a Python-based application for managing product inventory, made for a project at La Plateforme. 
-
+# Gestionnaire de Stock
+Stock Manager est une application basée sur Python pour gérer l'inventaire de produits, conçue pour un projet à La Plateforme.
 
 <img src="https://github.com/thouay-baccam/gestion_de_stock/assets/144665060/3f43ee7f-a5b4-4b7b-8995-9b1b40b399f9" width="425" height="312" alt="Screenshot 2024-02-05 033911">
 
-## Features
+## Fonctionnalités
 
-- **Login Screen:** Lets you log into your SQL database without having to put your password in the code (which isn't safe, duh.)
+- **Écran de Connexion:** Vous permet de vous connecter à votre base de données SQL sans avoir à mettre votre mot de passe dans le code.
 
-- **Product Management:** Easily add, modify, and delete products, including specifying product name, description, price, quantity, and category.
+- **Gestion des Produits:** Ajoutez, modifiez et supprimez facilement des produits, en spécifiant le nom, la description, le prix, la quantité et la catégorie du produit.
 
-- **Category Management:** Manage product categories by adding, modifying, and deleting them.
+- **Gestion des Catégories:** Gérez les catégories de produits en les ajoutant, en les modifiant et en les supprimant.
 
-- **Filtering:** Filter products by category to quickly find specific items in your inventory.
+- **Filtrage:** Filtrez les produits par catégorie pour trouver rapidement des articles spécifiques dans votre inventaire.
 
-- **Export to CSV:** Export your product data to a CSV file for external use or reporting.
+- **Exportation au format CSV:** Exportez vos données produits vers un fichier CSV pour une utilisation externe ou pour générer des rapports.
 
-## HOW TO USE
+## COMMENT UTILISER
 
-1. **To modify a product:** Make sure to click on the product on the list, then just input what you want to change and then press the modify product button.
+1. **Pour modifier un produit:** Assurez-vous de cliquer sur le produit dans la liste, puis saisissez ce que vous souhaitez modifier et appuyez sur le bouton "Modifier le produit".
 
-2. **To delete a product:** Just click on a product and click the delete product button, easy peasy.
+2. **Pour supprimer un produit:** Cliquez simplement sur un produit et appuyez sur le bouton "Supprimer le produit", c'est facile.
 
-## Acknowledgments
+## Remerciements
 
-- Special thanks to the creators and contributors of the libraries and frameworks used in this project.
-
----
+- Un grand merci aux créateurs et contributeurs des bibliothèques et frameworks utilisés dans ce projet.
