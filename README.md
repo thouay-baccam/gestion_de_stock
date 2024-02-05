@@ -1,5 +1,5 @@
 # Stock Manager
-Stock Manager is a Python-based application for managing product inventory.
+Stock Manager is a Python-based application for managing product inventory, made for a project at La Plateforme. 
 
 
 <img src="https://github.com/thouay-baccam/gestion_de_stock/assets/144665060/3f43ee7f-a5b4-4b7b-8995-9b1b40b399f9" width="425" height="312" alt="Screenshot 2024-02-05 033911">
@@ -25,7 +25,5 @@ Stock Manager is a Python-based application for managing product inventory.
 ## Acknowledgments
 
 - Special thanks to the creators and contributors of the libraries and frameworks used in this project.
-
-- Inspired by the need for efficient inventory management tools.
 
 ---
