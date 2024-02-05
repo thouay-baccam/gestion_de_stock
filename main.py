@@ -1,4 +1,3 @@
-# main.py
 from logindialog import show_login_dialog
 from interface import Interface
 from databaseconnect import DatabaseConnect
